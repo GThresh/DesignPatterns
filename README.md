@@ -1,3 +1,4 @@
 # JOJO-S_DesignPatterns
 Welcome to JoJo's DesignPatterns
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
+![Image text](https://imgsa.baidu.com/forum/pic/item/c75c10385343fbf206693ebbb27eca8064388fe5.jpg)
