@@ -1,7 +1,7 @@
-package com.gthresh.patterns.factory.simple_factory.lol.Adventure;
+package com.gthresh.patterns.factory.simple_factory.Adventure;
 
 
-import com.gthresh.patterns.factory.simple_factory.lol.JOJO.AbstractJoJo;
+import com.gthresh.patterns.factory.simple_factory.JOJO.AbstractJoJo;
 
 /**
  * ClassName: AbstractAdventure

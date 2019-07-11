@@ -1,4 +1,4 @@
-package com.gthresh.patterns.factory.simple_factory.lol.JOJO;
+package com.gthresh.patterns.factory.simple_factory.JOJO;
 
 /**
  * ClassName: AbstractHero

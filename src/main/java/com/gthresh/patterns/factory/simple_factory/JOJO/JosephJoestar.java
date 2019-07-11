@@ -1,5 +1,4 @@
-package com.gthresh.patterns.factory.simple_factory.lol.JOJO;
-
+package com.gthresh.patterns.factory.simple_factory.JOJO;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -7,23 +6,24 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * ClassName: JonathanJoestar
- * Description: TODO JonathanJoestar
+ * ClassName: JosephJoestar
+ * Description: TODO JosephJoestar
  *
  * @author G-thresh
- * Date: 2019/7/11 20:34
+ * Date: 2019/7/11 20:35
  * Version: v1.0
  */
-public class JonathanJoestar extends AbstractJoJo {
-    private String realName = "Jonathan·Joestar";
-    private String jpName = "ジョナサン・ジョースター ";
-    private String cnName = "乔纳森·乔斯达";
+public class JosephJoestar extends AbstractJoJo {
+    private String realName = "Joseph•Joestar";
+    private String cnName = "乔瑟夫·乔斯达";
+    private String jpName = "ジョセフ・ジョースター";
     private List<String> joName = new ArrayList<String>(){{
-        add("大乔");
+        add("二乔");
+        add("龙舌兰姑娘");
     }};
     private boolean sex = true;
     private Map<String,String> relation = new HashMap<String, String>(){{
-        put("father","乔治·乔斯达");
+        put("grandfather","乔纳森·乔斯达");
     }};
 
     @Override
@@ -39,20 +39,20 @@ public class JonathanJoestar extends AbstractJoJo {
         this.realName = realName;
     }
 
-    public String getJpName() {
-        return jpName;
-    }
-
-    public void setJpName(String jpName) {
-        this.jpName = jpName;
-    }
-
     public String getCnName() {
         return cnName;
     }
 
     public void setCnName(String cnName) {
         this.cnName = cnName;
+    }
+
+    public String getJpName() {
+        return jpName;
+    }
+
+    public void setJpName(String jpName) {
+        this.jpName = jpName;
     }
 
     public List<String> getJoName() {

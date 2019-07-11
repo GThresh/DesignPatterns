@@ -1,8 +1,8 @@
-package com.gthresh.patterns.factory.simple_factory.lol;
+package com.gthresh.patterns.factory.simple_factory;
 
-import com.gthresh.patterns.factory.simple_factory.lol.Adventure.AbstractAdventure;
-import com.gthresh.patterns.factory.simple_factory.lol.JOJO.AbstractJoJo;
-import com.gthresh.patterns.factory.simple_factory.lol.JOJO.JonathanJoestar;
+import com.gthresh.patterns.factory.simple_factory.Adventure.AbstractAdventure;
+import com.gthresh.patterns.factory.simple_factory.JOJO.AbstractJoJo;
+import com.gthresh.patterns.factory.simple_factory.JOJO.JonathanJoestar;
 
 
 /**
