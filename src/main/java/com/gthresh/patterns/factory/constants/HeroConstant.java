@@ -1,4 +1,4 @@
-package com.gthresh.patterns.factory.lol.constants;
+package com.gthresh.patterns.factory.constants;
 
 /**
  * ClassName: HeroConstant
@@ -8,7 +8,7 @@ package com.gthresh.patterns.factory.lol.constants;
  * Version: v1.0
  */
 public interface HeroConstant {
-    String HERO_THRESH = "Thresh";
+    String HERO_THRESH = "JonathanJoestar";
     String HERO_YASUO = "YASUO";
     String HERO_GNAR = "GNAR";
     String HERO_ASHE = "ASHE";
